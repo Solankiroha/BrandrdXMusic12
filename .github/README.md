@@ -32,7 +32,7 @@
 
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ⏤͟͟͞͞🦋⃝⃪⃮⃕⃔ʙʀᴀɴᴅᴇᴅ🅘︎ɴɴᴏᴄᴇɴᴛ⛦⃕͜🅚︎ᴜᴅɪ𐏓꯭ ᷞ ͦ͢ ͮ ͤ✿્᭄͜͡𝄟⃟🥀](https://t.me/BRANDED_KUDI_BOT)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝙍𝙧𝙡𝙮𝙖𝙣𝙠𝙖 𓆪✘𝐌꯭𝐔𝐒𝐋𝐂](https://t.me/Priyanka_music_bot?startgroup=true)**
 
 
 
