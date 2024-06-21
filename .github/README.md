@@ -1,11 +1,11 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「⛦🦋 𝗕𝗥𝗔𝗡𝗗𝗥𝗗 ✘ 𝗠𝗨𝗦𝗜𝗖 🦋⛦」──
+    ──「⛦🦋 𝙍𝙊𝙃𝘼𝙉 ✘ 𝗠𝗨𝗦𝗜𝗖 🦋⛦」──
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/29626078a1324cf58ce2a.jpg">
+  <img src="https://telegra.ph/file/cfbdee8103102bcb2e5da.jpg">
 </p>
 
 <p align="center">
