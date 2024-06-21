@@ -54,7 +54,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/WCGKING/BrandrdXMusic && cd BrandrdXMusic`
+`git clone https://github.com/Solankiroha/BrandrdXMusic12 && cd BrandrdXMusic`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -75,11 +75,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/BRANDED_WORLD"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Tch_shyari_Group"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/BRANDRD_BOT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Tch_shyari_Group"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/Solankiroha/BrandrdXMusic12.git) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/Solankiroha/BrandrdXMusic12.git)_</b>
