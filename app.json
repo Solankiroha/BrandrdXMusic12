@@ -20,7 +20,7 @@
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
         "value": "",
-        "required": trutrue
+        "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
